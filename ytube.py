@@ -1,5 +1,4 @@
 from  tkinter import *
-from PIL import ImageTk,Image
 from tkinter import filedialog
 from pytube import YouTube
 from tkinter import messagebox
